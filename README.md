@@ -4,6 +4,9 @@
 
 This project is a Bank Account Management System developed over a period of 48 hours. The system allows users to create typical bank accounts and savings accounts, transfer funds between them, and store account information securely.
 
+### Disclaimer
+
+This project was created using guidelines provided by Bournemouth University, as part of coursework in a Programming unit. 
 ## Features
 
 - **Account Types**: 
