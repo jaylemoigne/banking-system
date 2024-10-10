@@ -6,7 +6,7 @@ This project is a Bank Account Management System developed over a period of 48 h
 
 ### Disclaimer
 
-This project was created using guidelines provided by Bournemouth University, as part of coursework in a Programming unit. 
+This project was created using guidelines provided by Bournemouth University, as part of coursework in a Programming unit. These guidelines were brief descriptions of what each function should achieve, all other code is mine, unless stated otherwise in comments.
 ## Features
 
 - **Account Types**: 
